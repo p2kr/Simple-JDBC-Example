@@ -1,2 +1,2 @@
 # Simple-JDBC-Example
-Connecting SQL*Plus using java jdbc driver
+Connecting Oracle SQL*Plus using java jdbc driver
